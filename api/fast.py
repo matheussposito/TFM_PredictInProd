@@ -49,4 +49,4 @@ def predict(pickup_datetime,
 
     y_pred = model.predict(X_pred)
 
-    return {'prediction': str(y_pred[0])}
+    return {'prediction': y_pred[0]}
