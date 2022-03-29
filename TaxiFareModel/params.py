@@ -1,7 +1,7 @@
 ### MLFLOW configuration - - - - - - - - - - - - - - - - - - -
 
 MLFLOW_URI = "https://mlflow.lewagon.co/"
-EXPERIMENT_NAME = "[BR] [BH] [matheussposito] TFM_predict_in_production + 2"
+EXPERIMENT_NAME = "[BR] [BH] [matheussposito] TFM_predict_in_production2"
 
 ### DATA & MODEL LOCATIONS  - - - - - - - - - - - - - - - - - - -
 
